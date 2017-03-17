@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-    :books: js-books
-  <br>
-</h1>
+# :books: js-books
 
-Free JS books collection.
+> Free JS books collection.
 
 - **[`Eloquent JavaScript`](http://eloquentjavascript.net/)**
 - **[`You Don’t Know JS – A book series on JavaScript`](https://github.com/getify/You-Dont-Know-JS)**
@@ -20,4 +16,3 @@ Free JS books collection.
 - **[`Exploring ES6 – Upgrade to the next version of JavaScript`](http://exploringjs.com/es6/)**
 - **[`Setting up ES6`](https://leanpub.com/setting-up-es6/read)**
 - **[`Exploring ES2016 and ES2017`](http://exploringjs.com/es2016-es2017/)**
-                    
